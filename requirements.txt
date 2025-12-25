@@ -1,9 +1,8 @@
 pandas
 numpy
 matplotlib
-seaborn
-yfinance
-statsmodels
+scipy
 scikit-learn
+statsmodels
 prophet
-jupyter
+ucimlrepo
